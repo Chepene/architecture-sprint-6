@@ -1,0 +1,11 @@
+Events:
+  Type    Reason             Age    From                   Message
+  ----    ------             ----   ----                   -------
+  Normal  ScalingReplicaSet  10m    deployment-controller  Scaled up replica set scaletestapp-deployment-58878479b8 from 0 to 1
+  Normal  ScalingReplicaSet  10m    deployment-controller  Scaled down replica set scaletestapp-deployment-bb6dd76f4 from 1 to 0
+  Normal  ScalingReplicaSet  8m39s  deployment-controller  Scaled up replica set scaletestapp-deployment-66589564b6 from 0 to 1
+  Normal  ScalingReplicaSet  8m36s  deployment-controller  Scaled down replica set scaletestapp-deployment-58878479b8 from 1 to 0
+  Normal  ScalingReplicaSet  8m11s  deployment-controller  Scaled up replica set scaletestapp-deployment-66589564b6 from 1 to 4
+  Normal  ScalingReplicaSet  7m56s  deployment-controller  Scaled up replica set scaletestapp-deployment-66589564b6 from 4 to 6
+  Normal  ScalingReplicaSet  3m11s  deployment-controller  Scaled up replica set scaletestapp-deployment-66589564b6 from 6 to 8
+PS C:\Users\a.batova\sources\arch\dz6\architecture-sprint-6\Exc2>
